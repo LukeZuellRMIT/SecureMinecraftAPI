@@ -3,7 +3,7 @@
 This is the README file for Assignment 3 in Programming Studio 2 (COSC2804).
 
 Please indicate where to find your video demo. You can include it in this repo if it's small enough, or alternatively use a video sharing platform, such as YouTube. Any widely supported video format is fine (.mp4, .avi, .mkv, etc.)
-Video Link - https://youtu.be/1JRidLXfcvY
+Video Link - Available on request
 
 # Code references #
 - Javax Crypto: https://docs.oracle.com/javase/7/docs/api/javax/crypto/package-summary.html
